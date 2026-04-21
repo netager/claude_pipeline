@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environment (uv)
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Type checker
+.mypy_cache/
+
+# Linter
+.ruff_cache/
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
